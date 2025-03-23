@@ -1,7 +1,7 @@
 # Hello, I'm Farah
 
-☁️Aspiring Cloud Security Engineer
-👩🏻‍💻Currently a CS student 
+☁️Aspiring Cloud Security Engineer <br>
+👩🏻‍💻Currently a CS student <br>
 📔Interested in Social Psychology, baking, and playing cozy games 🧺🌻
 
 # 💻 Tech Stack:
