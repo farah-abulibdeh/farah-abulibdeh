@@ -10,8 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=farah-abulibdeh&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=farah-abulibdeh&theme=rose_pine&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=farah-abulibdeh&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
