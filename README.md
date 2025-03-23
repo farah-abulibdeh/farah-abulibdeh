@@ -1,4 +1,4 @@
-## Hello, I'm Farah
+# Hello, I'm Farah
 
 ☁️Aspiring Cloud Security Engineer
 👩🏻‍💻Currently a CS student 
