@@ -1,6 +1,6 @@
 # Hello, I'm Farah
 
-☁️Aspiring ML Engineer <br>
+☁️Aspiring Cloud Security Engineer <br>
 👩🏻‍💻Currently a CS student at AUS <br>
 📔Interested in Social Psychology, baking, and playing cozy games 🧺🌻
 
