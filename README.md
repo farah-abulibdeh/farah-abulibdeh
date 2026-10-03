@@ -1,7 +1,7 @@
 # Hello, I'm Farah
 
-☁️Aspiring Cloud Security Engineer <br>
-👩🏻‍💻Currently a CS student at AUS <br>
+☁️Aspiring AI Cloud Security Engineer <br>
+👩🏻‍💻AUS CompSci Graduate <br>
 📔Interested in Social Psychology, baking, and playing cozy games 🧺🌻
 
 # 💻 Tech Stack:
